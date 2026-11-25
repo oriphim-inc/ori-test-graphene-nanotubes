@@ -1,6 +1,6 @@
 # PLAN — tight-binding graphene and carbon nanotubes
 
-Requested by held-out runner. Planned by Ori (no attachments; standard textbook physics).
+Requested by Oriphim. Planned by Ori (no attachments; standard textbook physics).
 
 ## Question
 1. Nearest-neighbour (NN) π-band tight-binding model of graphene, t = 2.7 eV:

@@ -2,7 +2,7 @@
 
 # Tight-binding graphene and zone-folded carbon nanotubes
 
-By **held-out runner**, with Ori. Asked: build a nearest-neighbour (NN) tight-binding model of graphene
+By **Oriphim**, with Ori. Asked: build a nearest-neighbour (NN) tight-binding model of graphene
 (t = 2.7 eV) and compute its bands, Dirac points, Fermi velocity and DOS. Roll it into the tubes
 (5,5), (9,0), (10,0), (8,4) and (13,0), find which are metallic, and plot gap vs diameter. Then add
 NNN hopping t′ and a sublattice mass Δ. The agreed plan is in [PLAN.md](PLAN.md).
